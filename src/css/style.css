@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: grid;
+    padding-left: 10%;
+    padding-right: 10%;
+    background: #d8e6e4;
+    align-content: center;
+    grid-template-columns: 1;
+    grid-template-rows: 5;
+}
+
+.navigation{
+
+}
